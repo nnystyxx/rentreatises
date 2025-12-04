@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="episode-3-the-ordeals-of-green">Episode 3: The Ordeals of Green</h1>
 <p>The Ordeals of Green are not an unfamiliar topic to me. I’ve explored their meaning as it concerns the Machine Purge, but here, I want to tackle a different angle on the murderous machines, through the previous metaphor of ‘roots’.</p>
 <p>What do you suppose a robot is made of? More often than not, it is metal. But more specifically, it is made of the Earth.</p>
